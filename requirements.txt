@@ -1,0 +1,8 @@
+torch
+sentence-transformers
+rank-bm25
+numpy
+pandas
+rich
+streamlit
+tqdm
